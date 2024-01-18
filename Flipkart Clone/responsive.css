@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .list {
+        overflow: scroll;
+    }
+
+    .container {
+        overflow: scroll;
+    }
+}
